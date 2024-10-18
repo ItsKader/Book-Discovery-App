@@ -44,7 +44,7 @@
 
 ## About The Project
 
-Not sure what shoudl be your next read? Checkout this Book Discovery App! 
+Not sure what should be your next read? Checkout this Book Discovery App! 
 
 
 
